@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RB_July_Edyoda_21/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/RB_July_Edyoda_21/static/js/main.f91a3b56.chunk.js",
+    "main.js.map": "/RB_July_Edyoda_21/static/js/main.f91a3b56.chunk.js.map",
+    "runtime-main.js": "/RB_July_Edyoda_21/static/js/runtime-main.86c5900a.js",
+    "runtime-main.js.map": "/RB_July_Edyoda_21/static/js/runtime-main.86c5900a.js.map",
+    "static/js/2.0484deb3.chunk.js": "/RB_July_Edyoda_21/static/js/2.0484deb3.chunk.js",
+    "static/js/2.0484deb3.chunk.js.map": "/RB_July_Edyoda_21/static/js/2.0484deb3.chunk.js.map",
+    "static/js/3.bcc3ffbe.chunk.js": "/RB_July_Edyoda_21/static/js/3.bcc3ffbe.chunk.js",
+    "static/js/3.bcc3ffbe.chunk.js.map": "/RB_July_Edyoda_21/static/js/3.bcc3ffbe.chunk.js.map",
+    "index.html": "/RB_July_Edyoda_21/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/RB_July_Edyoda_21/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0484deb3.chunk.js.LICENSE.txt": "/RB_July_Edyoda_21/static/js/2.0484deb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86c5900a.js",
+    "static/js/2.0484deb3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f91a3b56.chunk.js"
+  ]
+}
